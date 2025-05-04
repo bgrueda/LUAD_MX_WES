@@ -17,7 +17,7 @@ This repository is part of a broader effort to advance the genomic characterizat
 ## Workflow
 This image below shows the steps of the Workflow for the identification and analysis of genomic variants and the scripts needed for this purpose.
 
-![IMAGE](https://github.com/bgrueda/WES_MX_LUAD/blob/main/figures/BioinformaticWorkflow.png)
+![IMAGE](https://github.com/bgrueda/LUAD_MX_WES/blob/main/figures/BioinformaticWorkflow.png)
 
 ## Content
 This repository has the following organization:
